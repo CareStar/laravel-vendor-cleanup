@@ -115,6 +115,19 @@ return array(
 		'phpunit/phpunit-mock-objects'			=> "{$standard}",
 
         // Project specific packages
+		'classpreloader/classpreloader'			=> "{$standard}",
+		'fideloper/proxy'						=> "{$standard}",
+		'laravelbook/ardent'					=> "{$standard}",
+		'nitmedia/wkhtml2pdf'					=> "{$standard}",
+		'psr/log'								=> "{$standard}",
+		'sebastian/diff'						=> "{$standard}",
+		'sebastian/environment'					=> "{$standard}",
+		'sebastian/exporter'					=> "{$standard}",
+		'sebastian/version'						=> "{$standard}",
+		'setasign/fpdi'							=> "{$standard}",
+		'way/database'							=> "{$standard}",
+		'zizaco/confide'						=> "{$standard}",
+		'zizaco/entrust'						=> "{$standard}"
 
     )
 );
