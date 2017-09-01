@@ -41,9 +41,9 @@ return array(
         'symfony/security/Symfony/Component/Security'                => "{$standard}",
         'symfony/security-core/Symfony/Component/Security/Core'      => "{$standard}",
         'symfony/translation/Symfony/Component/Translation'          => "{$standard}",
-		'symfony/polyfill-mbstring'									 => "{$standard}",
-		'symfony/var-dumper'										 => "{$standard}",
-		'symfony/yaml'											 	 => "{$standard}",
+        'symfony/polyfill-mbstring'                                  => "{$standard}",
+        'symfony/var-dumper'                                         => "{$standard}",
+        'symfony/yaml'                                               => "{$standard}",
 
         // Default Laravel 4 install
         'd11wtq/boris'                          => "{$standard}",
@@ -102,32 +102,31 @@ return array(
         'willdurand/geocoder'                   => "{$standard}",
         
         //AWS SDK
-        'aws/aws-sdk-php'						=> "{$standard}",
-		'aws/aws-sdk-php-laravel'				=> "{$standard}",
+        'aws/aws-sdk-php'                       => "{$standard}",
+        'aws/aws-sdk-php-laravel'               => "{$standard}",
 		
-		// PHPUnit Testing Framework
-		'phpunit/php-code-coverage'				=> "{$standard}",
-		'phpunit/php-file-iterator'				=> "{$standard}",
-		'phpunit/php-text-template'				=> "{$standard}",
-		'phpunit/php-timer'						=> "{$standard}",
-		'phpunit/php-token-stream'				=> "{$standard}",
-		'phpunit/phpunit'						=> "{$standard}",
-		'phpunit/phpunit-mock-objects'			=> "{$standard}",
+        // PHPUnit Testing Framework
+        'phpunit/php-code-coverage'             => "{$standard}",
+        'phpunit/php-file-iterator'             => "{$standard}",
+        'phpunit/php-text-template'             => "{$standard}",
+        'phpunit/php-timer'                     => "{$standard}",
+        'phpunit/php-token-stream'              => "{$standard}",
+        'phpunit/phpunit'                       => "{$standard}",
+        'phpunit/phpunit-mock-objects'          => "{$standard}",
 
         // Project specific packages
-		'classpreloader/classpreloader'			=> "{$standard}",
-		'fideloper/proxy'						=> "{$standard}",
-		'laravelbook/ardent'					=> "{$standard}",
-		'nitmedia/wkhtml2pdf'					=> "{$standard}",
-		'psr/log'								=> "{$standard}",
-		'sebastian/diff'						=> "{$standard}",
-		'sebastian/environment'					=> "{$standard}",
-		'sebastian/exporter'					=> "{$standard}",
-		'sebastian/version'						=> "{$standard}",
-		'setasign/fpdi'							=> "{$standard}",
-		'way/database'							=> "{$standard}",
-		'zizaco/confide'						=> "{$standard}",
-		'zizaco/entrust'						=> "{$standard}"
-
+        'classpreloader/classpreloader'         => "{$standard}",
+        'fideloper/proxy'                       => "{$standard}",
+        'laravelbook/ardent'                    => "{$standard}",
+        'nitmedia/wkhtml2pdf'                   => "{$standard}",
+        'psr/log'                               => "{$standard}",
+        'sebastian/diff'                        => "{$standard}",
+        'sebastian/environment'                 => "{$standard}",
+        'sebastian/exporter'                    => "{$standard}",
+        'sebastian/version'                     => "{$standard}",
+        'setasign/fpdi'                         => "{$standard}",
+        'way/database'                          => "{$standard}",
+        'zizaco/confide'                        => "{$standard}",
+        'zizaco/entrust'                        => "{$standard}"
     )
 );
